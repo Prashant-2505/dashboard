@@ -1,0 +1,30 @@
+[
+    {
+        "category": "CSMP",
+        "widgets": [
+            {"name": "Widget 1", "type": "chart", "data": [], "show": true },
+            {"name": "Widget 2", "type": "table", "data": [], "show": true }
+        ]
+    },
+    {
+        "category": "CWPP",
+        "widgets": [
+            {"name": "Widget 1", "type": "chart", "data": [], "show": true },
+            {"name": "Widget 2", "type": "graph", "data": [], "show": true }
+        ]
+    },
+    {
+        "category": "Registry Scan",
+        "widgets": [
+            {"name": "Widget 1", "type": "pie chart", "data": [], "show": true },
+            {"name": "Widget 2", "type": "bar chart", "data": [], "show": true }
+        ]
+    },
+    {
+        "category": "Finance",
+        "widgets": [
+            {"name": "Widget 1", "type": "financial table", "data": [], "show": true },
+            {"name": "Widget 2", "type": "line chart", "data": [], "show": true }
+        ]
+    }
+]
