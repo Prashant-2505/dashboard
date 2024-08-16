@@ -1,7 +1,7 @@
 import React from 'react';
 import WidgetCard from '../component/WidgetCard';
 import DashBoardCategory from '../assets/dashboardCategory.json';
-import AddWidgetBtn from '../component/addWidgetBtn'
+import AddWidgetBtn from '../component/AddWidgetBtn'
 import DropDownBtn from '../component/DropDownBtn';
 
 import { FiRefreshCcw } from "react-icons/fi";
